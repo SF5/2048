@@ -1,7 +1,9 @@
 # 2048
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
-
+<p>This version is made for the udacity course 'Make Your Own 2048' by SF</p>
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
+
+ 
 
 ### Contributions
 
@@ -15,11 +17,11 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 ### Screenshot
 
 <p align="center">
-  <img src="http://pictures.gabrielecirulli.com/2048-20140309-234100.png" alt="Screenshot"/>
+  <!-- <img src="http://pictures.gabrielecirulli.com/2048-20140309-234100.png" alt="Screenshot"/> -->
+ <img src="style/images/screenshot.jpg" alt = "Screenshot" />
 </p>
 
-That screenshot is fake, by the way. I never reached 2048 :smile:
-
+<!-- That screenshot is fake, by the way. I never reached 2048 :smile: -->
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
 
